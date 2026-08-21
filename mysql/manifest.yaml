@@ -5,6 +5,7 @@ metadata:
   namespace: roboshop
 data:
   MYSQL_ROOT_PASSWORD: RoboShop@1
+---
 
 
 # stateful set mysql
